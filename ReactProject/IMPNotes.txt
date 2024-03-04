@@ -1,0 +1,13 @@
+Pune Homes Project 
+1>client folder
+1> npm create-react-app client
+2> install sum pakeges 
+  1>npm i react-router-dom sass @mui/material @mui/icons-material @emotion/react  @emotion/styled
+
+
+2> server folder
+  1> mkdir server 
+    cd server 
+    npm i -g nodemon 
+   npm i express body-parser bcryptjs cors dotenv multer multer-gridfs-storage jsonwebtoken mongoose
+
