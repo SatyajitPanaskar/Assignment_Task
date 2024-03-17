@@ -1,6 +1,27 @@
 .navbar {
-  background-color: aqua;
+  background-color: rgb(10, 4, 31);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 2px solid rgb(46, 23, 129);
+}
+.logo {
+  padding: 0px 20px;
+  font-size: 25px;
+}
+.items {
+}
+.items ul {
+  display: flex;
+  list-style: none;
+}
+.items ul li {
+  padding: 0px 20px;
+}
+.items ul li a {
+  text-decoration: none;
+  color: rgb(240, 238, 238);
+}
+.items ul li a:hover {
+  color: red;
 }

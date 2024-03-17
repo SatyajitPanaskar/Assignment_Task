@@ -1,0 +1,9 @@
+.homepage {
+  width: 100%;
+}
+.homepage .two-col {
+  border: 2px solid red;
+}
+.homepage .ten-col {
+  border: 2px solid blue;
+}
