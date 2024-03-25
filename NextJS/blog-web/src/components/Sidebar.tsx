@@ -8,7 +8,7 @@ import { MoreHorizontal } from "lucide-react";
 const sidebarItems: SidebarItems = {
   links: [
     { label: "Introduction", href: "/" },
-    { label: "Routing", href: "/item/routing" },
+    { label: "Routing", href: "/routing" },
     { label: "Rendering", href: "/item/rendering" },
     { label: "Data Fetching", href: "/item/dataFetching" },
   ],
